@@ -1,6 +1,7 @@
 # Literature reading 
-![alt text](https://github.com/gongyan2444/read/blob/master/reading.jpg "Title") 
-Yan Gong
+## by Yan Gong
+![alt text](https://github.com/gongyan2444/read/blob/master/reading.jpg "reading") \
+
 This is designed for myself. This is mostly based on Prof. Zhiyu Zhang's course ([Astronomical Literature  Reading and Writing](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113716.html)). My notes will mainly focus on the fast reading.
 
 
