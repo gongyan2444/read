@@ -11,7 +11,8 @@
 	- They identified 43 protostellar outflows (37 highly likely + 6 candidates) while 791 out of the 834 total cores do not have detected outflows. A large amount of starless cores in CMZ, indicate a early evolutionary phase?  Outflow chemistry is similar in the CMZ and nearby clouds.
 - note:
 	- The conclusion of early phase of star formation seems to contradict the galaxy evolution? or different generations of star formation?
-	- They developed a code ([calcu](https://github.com/ShanghuoLi/calcu)) to calculate the outflow parameters.
+	- They developed a code ([calcu](https://github.com/ShanghuoLi/calcu)) to calculate the outflow parameters.  
+	- They also presented the partition functions of H2CO, CH3OH, and HNCO in their Table 2.
 
 
 	
