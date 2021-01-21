@@ -8,4 +8,4 @@
 - new method: 
 	- ALMA more sensitive observations of CO and HCO+ toward quasars.
 - progress: 
-	- CO absorption is detected in all five sightlines. Previous nondetection is the sensitivity issue. CO column density is rather low < 1e15 cm-2.
+	- CO absorption is detected in all five sightlines. Previous nondetection is the sensitivity issue. CO column density is rather low < 1e15 cm<sup>-2</sup>.  
