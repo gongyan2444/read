@@ -15,4 +15,14 @@
 	- They also presented the partition functions of H2CO, CH3OH, and HNCO in their Table 2.
 
 
-	
+#### [The Dense Gas Fraction in Galactic Center Clouds](https://ui.adsabs.harvard.edu/abs/2018ApJ...868....7M/abstract)
+- Question:
+	- The distribution of gas densities in the CMZ and the density structure are poorly constrained.
+- Aims:
+	- HC3N is a good density probe and its transitions are usually optically thin. This study will use HC3N lines to determine the density structure in the CMZ.
+- Method:
+	- They use MOPRA 22m, GBT, and APEX to observe a few HC3N lines.
+- Progress:
+	- Two density component with one lower than 1e4 cm<sup>-3</sup> and the other one between 1e5 and 1e6 cm<sup>-3</sup>. The results support the higher star-formation threshold in the CMZ. The line ratio increases sharply at R<140 pc, indicating the increase of the dense gas fraction.
+- note:
+	- Actually, one should try to obtain the density distribution of the CMZ.
