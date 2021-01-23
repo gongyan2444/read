@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "506ac6cba26ca247",
+    "type": "split",
+    "children": [
+      {
+        "id": "312df41cc6db7cdf",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bea8c95795420928",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b31855191d450a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779f3b7ae9949656",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29737b622db8f0c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CMZ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3b0fbff4a2577ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b06859084e747343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6ff2c80c3dda6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "daily.md",
+    "codark.md",
+    "cmz.md",
+    "Untitled.md"
+  ]
+}
