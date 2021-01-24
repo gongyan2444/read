@@ -26,3 +26,17 @@
 	- Two density component with one lower than 1e4 cm<sup>-3</sup> and the other one between 1e5 and 1e6 cm<sup>-3</sup>. The results support the higher star-formation threshold in the CMZ. The line ratio increases sharply at R<140 pc, indicating the increase of the dense gas fraction.
 - note:
 	- Actually, one should try to obtain the density distribution of the CMZ.
+
+
+## Chemistry
+#### [Phosphorus-bearing molecules in the Galactic Center](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..30R/abstract)
+- Question:
+	- Phosphorus (P) is one of the essential elements for life. P-bearing molecules have already detected in star-forming regions, but their formation routines are poorly constrained. 
+- Aims:
+	- The aim is to investigate the formation and destruction routines of P-bearing molecules. 
+- Method:
+	- They observed 7 position in CMZ with IRAM 30m.
+- Progress:
+	- PN is detected toward 5 position and PO is detected toward G+0.693-0.03. The two position of non-detection was attributed to the intense UV/X-ray/cosmic ray radiation. P-bearing molecules are likely formed in shocked gas as a result of dust grain sputtering. 
+- note:
+	- Mapping such molecules is still not possible, which may require the next-generation receivers.
