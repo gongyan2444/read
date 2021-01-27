@@ -12,3 +12,27 @@
 	- They find that HD is mainly determined by radiative pumping rather than collision in diffuse molecular clouds, and thus become a more sensitive indicator of the UV radiation intensity. 
 - note:
 	- Can HD become a good tracer for the total mass in such an environment? 
+
+
+### Jan 2
+#### [A Supernova-driven, Magnetically-collimated Outflow as the Origin of the Galactic Center Radio Bubbles](https://arxiv.org/abs/2101.10741)
+-	# CMZ # GC
+- Question: 
+	- A pair of non-thermal radio bubbles recently discovered in the inner few hundred parsecs of the Galactic center bears a close spatial association with elongated, thermal X-ray features called the X-ray chimneys. While the morphology, position, and orientation vividly point to an outflow from the Galactic center, the physical processes responsible for the outflow remain to be understood.
+- Aims: 
+	- To study the origin of the bubbles in GC.
+- new method: 
+	- They performed simulations.
+- progress: 
+	- They find that a hot gas outflow can naturally form and acquire a vertically elongated shape due to collimation by the magnetic pressure. an initial magnetic field strength of 80 microG and a supernova rate of 1 kyr<sup>−1</sup> can well reproduce the observed morphology, internal energy and X-ray luminosity of the bubbles after an evolutionary time of 330 kyr. Inside the bubbles, mutual collisions between the shock waves of individual supernova remnants produce dense filaments of locally amplified magnetic field. 
+
+#### [ALMA reveals a cloud-cloud collision that triggers star formation in N66N of the Small Magellanic Cloud](https://arxiv.org/abs/2101.10711)
+-	# cloud-cloud collision # SMC
+- Question: 
+	- The formation of massive stars in low metallicity galaxy SMC (~0.2 Z<sub>sun</sub>) is not well known. N66 is a massive star formation region, suitable to study high mass star formation. Star formation in N66 is still poorly understood.
+- Aims: 
+	- To study star formation in N66.
+- new method: 
+	- ALMA CO (1-0) observations of N66N region in SMC.
+- progress: 
+	- They find that this is the first case of identified cloud-cloud (or two filament) collisions in SMC.
