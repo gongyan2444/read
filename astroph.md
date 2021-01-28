@@ -36,3 +36,16 @@
 	- ALMA CO (1-0) observations of N66N region in SMC.
 - progress: 
 	- They find that this is the first case of identified cloud-cloud (or two filament) collisions in SMC.
+
+#### [The Perseus ALMA Chemistry Survey (PEACHES). I. The Complex Organic Molecules in Perseus Embedded Protostars](https://arxiv.org/abs/2101.11009)
+-	# protostar chemistry # Perseus
+- Question: 
+	- It is known that chemical enrichment in COMs is present in low-mass embedded protostars. However, the statistics of COM abundance in low-mass protostars are limited by the scarcity of observations. 
+- Aims: 
+	- To study protostellar chemistry statistically.
+- new method: 
+	- ALMA observations of 50 selected Class 0/I protostars in Perseus.
+- progress: 
+	- They find that the detectability of COMs depends on neither the averaged continuum brightness temperature, a proxy of the H2 column density, nor the bolometric luminosity and the bolometric temperature. The correlation between COMs is insensitive to the protostellar properties, such as the bolometric luminosity and the bolometric temperature. 
+- note: 
+	- The null results could possible point to the origin of COMs from shocks and grain-chemistry. and it also reminds me of previous surveys of ASAI, CALYPSO, etc.
