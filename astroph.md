@@ -49,3 +49,18 @@
 	- They find that the detectability of COMs depends on neither the averaged continuum brightness temperature, a proxy of the H2 column density, nor the bolometric luminosity and the bolometric temperature. The correlation between COMs is insensitive to the protostellar properties, such as the bolometric luminosity and the bolometric temperature. 
 - note: 
 	- The null results could possible point to the origin of COMs from shocks and grain-chemistry. and it also reminds me of previous surveys of ASAI, CALYPSO, etc.
+
+
+#### [The Extraordinary Outburst in the Massive Protostellar System NGC6334I-MM1: Spatio-kinematics of Water Masers during a Contemporaneous Flare Event](https://arxiv.org/abs/2101.11913)
+-	# NGC6334 # water maser flare 
+- Question: 
+	- NGC6334I-MM1 exhibit an eruptive accretion event in which various maser species, including water masers, were triggered. The motions triggered by the burst are seldom investigated.
+- Aims: 
+	- To study the motions triggered by the burst
+- new method: 
+	- VLBI (KaVA) observations of the embedded H2O masers.
+- progress: 
+	- They find that 5 clusters of H2O masers with a mean proper motion of 85 km/s. It forms a major axis to have a position angle of −79.4degree, cutting through the dust cavity around MM1B and aligned in the northwest-southeast direction. We interpret this as the axis of the jet driving the CM2 shock and the maser motion. The post-accretion burst relative proper motions of the H2O masers trace shocks of jet motion.
+- note: 
+	- The VLBI follow-up observations of M2O sources will shed light on the episodic accretion of high mass star formations.
+
