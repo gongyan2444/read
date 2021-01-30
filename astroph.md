@@ -1,5 +1,5 @@
 ## 2021 Jan
-### Jan 1
+### Jan 25
 #### [Influence of radiative pumping on the HD rotational level populations in diffuse molecular clouds of the interstellar medium](https://arxiv.org/abs/2101.09342)
 - # HD excitation
 - Question: 
@@ -14,7 +14,7 @@
 	- Can HD become a good tracer for the total mass in such an environment? 
 
 
-### Jan 2
+### Jan 26
 #### [A Supernova-driven, Magnetically-collimated Outflow as the Origin of the Galactic Center Radio Bubbles](https://arxiv.org/abs/2101.10741)
 -	# CMZ # GC
 - Question: 
@@ -26,6 +26,7 @@
 - progress: 
 	- They find that a hot gas outflow can naturally form and acquire a vertically elongated shape due to collimation by the magnetic pressure. an initial magnetic field strength of 80 microG and a supernova rate of 1 kyr<sup>−1</sup> can well reproduce the observed morphology, internal energy and X-ray luminosity of the bubbles after an evolutionary time of 330 kyr. Inside the bubbles, mutual collisions between the shock waves of individual supernova remnants produce dense filaments of locally amplified magnetic field. 
 
+### Jan 27
 #### [ALMA reveals a cloud-cloud collision that triggers star formation in N66N of the Small Magellanic Cloud](https://arxiv.org/abs/2101.10711)
 -	# cloud-cloud collision # SMC
 - Question: 
@@ -37,6 +38,7 @@
 - progress: 
 	- They find that this is the first case of identified cloud-cloud (or two filament) collisions in SMC.
 
+### Jan 28
 #### [The Perseus ALMA Chemistry Survey (PEACHES). I. The Complex Organic Molecules in Perseus Embedded Protostars](https://arxiv.org/abs/2101.11009)
 -	# protostar chemistry # Perseus
 - Question: 
@@ -50,7 +52,7 @@
 - note: 
 	- The null results could possible point to the origin of COMs from shocks and grain-chemistry. and it also reminds me of previous surveys of ASAI, CALYPSO, etc.
 
-
+### Jan 29
 #### [The Extraordinary Outburst in the Massive Protostellar System NGC6334I-MM1: Spatio-kinematics of Water Masers during a Contemporaneous Flare Event](https://arxiv.org/abs/2101.11913)
 -	# NGC6334 # water maser flare 
 - Question: 
@@ -63,4 +65,19 @@
 	- They find that 5 clusters of H2O masers with a mean proper motion of 85 km/s. It forms a major axis to have a position angle of −79.4degree, cutting through the dust cavity around MM1B and aligned in the northwest-southeast direction. We interpret this as the axis of the jet driving the CM2 shock and the maser motion. The post-accretion burst relative proper motions of the H2O masers trace shocks of jet motion.
 - note: 
 	- The VLBI follow-up observations of M2O sources will shed light on the episodic accretion of high mass star formations.
+
+### Jan 30
+#### [Determining the presence of characteristic fragmentation length-scales in filaments](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.4024C/abstract)
+-	# filament # fragment # method
+- Question: 
+	- The fragment characteristic scale is important for filament formation and evolution. The methods used to determine the fragment scale are important. Different methods need to be tested with simulations to verify the best way to determine the scale.  
+- Aims: 
+	- To test the different methods to determine the fragmentation in filaments.
+- new method: 
+	- They used nearest neighbor separation (NNS), minimum spanning tree (MST), two-point correlation function, Nth nearest neighbor separation, Fourier power spectrum. 
+- progress: 
+	- The test shows that NNS, MST, and two-point correction function can robustly detec the characteristic fragmentation length-scale. 
+- note: 
+	- They developed a Python package called [FRAGMENT](https://github.com/SeamusClarke/FragMent).
+
 
