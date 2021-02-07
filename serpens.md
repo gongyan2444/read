@@ -21,3 +21,16 @@
 	- They discovered 52 continuum sources with mass of 0.0002--0.9 solar mass. They found mass segregation in the deeply embedded sources without IR counterparts. Their results suggest that the reason for mass segregation is likely primordial.   
 - note: 
 	- They use the minimum spanning tree method to constrain the fragmentation and its concentration.
+
+#### [The census of dense cores in the Serpens region from the Herschel Gould Belt Survey](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.4257F/abstract)
+-Question:
+	- How the physical properties of stars are determined during the  prestellar core phase is still a matter of debate. Core mass function is not investigated in the Serpens region.
+- Aims: 
+	- Characterize the earliest stages of star formation in the Serpens region , and to determine accompanying results about its prestellar core mass function. 
+- Method: 
+	- Herschel observations.
+- Progress:
+	- 833 sources, includeing 709 starless cores+124 protostellar cores. CMF with a lognormal up to 2Msun, after which it follows a power law with a slope of -2.05±0.34. The slope is steeper but still compatible with the IMF. 81% prestellar cores lies on filamentary structures. Serpens is confirmed to be a young low-mass  and active star-forming region.
+- note:
+	- They lack molecular line observations. 
+
