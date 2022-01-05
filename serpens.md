@@ -46,4 +46,17 @@
 	- They report the discovery of a further transition in relative orientation, that is, a return to parallel alignment at AV ≳ 21 mag in parts of the Serpens South cloud. This transition appears to be caused by gas flow and indicates that magnetic supercriticality sets in near AV ≳ 21 mag, allowing gravitational collapse and star cluster formation to occur even in the presence of relatively strong magnetic fields.
 - Note:
 	- At low column densities, the structure aligns parallel with the B field, while the gas structure is typically oriented perpendicular to magnetic fields at higher column densities. The new discovery highlights the role of gravity that can drag the magnetic field lines, which make the B field parallel to the filament again. 
+
+
+
+#### [Discovery of 22 GHz Water Masers in the Serpens South Region](https://ui.adsabs.harvard.edu/abs/2021AJ....162...68O/abstract)
+-Question:
+	- Hunting for 22 GHz water masers in Serpens south
+- Aims:
+	- This can be used to measure parallax with VLBI.
+- method:
+	- VLA and VLBA observations.
+- progress:
+	- We discover three 22 GHz Water masers that are associated with class 0-I stars and one is likely due to an O-rich AGB star. CARMA-6 may undergo a flare event. The linear velocity gradient of CARMA6 indicates a rotating jet. Both CARMA6 and CARMA6 seem to show episodic accretion. CARMA6 in the cluster becomes a very interesting source which deserves further investigations. 
+	
 	
