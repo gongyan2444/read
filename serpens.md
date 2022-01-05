@@ -34,3 +34,16 @@
 - note:
 	- They lack molecular line observations. 
 
+
+#### [Magnetized filamentary gas flows feeding the young embedded cluster in Serpens South](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1195P/abstract)
+-Question:
+	- The specific role of magnetic fields in shaping how the filaments fragment into cores and on to form stars and clusters thus remains unknown.
+-Aims:
+	- study the role of magnetic field in the formation of star clusters like Serpens South that is one of the nearest star cluster formation region.
+-method:
+	- SOFIA HAWC+ polarimeter.
+- progress:
+	- They report the discovery of a further transition in relative orientation, that is, a return to parallel alignment at AV ≳ 21 mag in parts of the Serpens South cloud. This transition appears to be caused by gas flow and indicates that magnetic supercriticality sets in near AV ≳ 21 mag, allowing gravitational collapse and star cluster formation to occur even in the presence of relatively strong magnetic fields.
+- Note:
+	- At low column densities, the structure aligns parallel with the B field, while the gas structure is typically oriented perpendicular to magnetic fields at higher column densities. The new discovery highlights the role of gravity that can drag the magnetic field lines, which make the B field parallel to the filament again. 
+	
