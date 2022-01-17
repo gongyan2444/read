@@ -59,4 +59,12 @@
 - progress:
 	- We discover three 22 GHz Water masers that are associated with class 0-I stars and one is likely due to an O-rich AGB star. CARMA-6 may undergo a flare event. The linear velocity gradient of CARMA6 indicates a rotating jet. Both CARMA6 and CARMA6 seem to show episodic accretion. CARMA6 in the cluster becomes a very interesting source which deserves further investigations. 
 	
-	
+#### [B-FIELDS IN STAR-FORMING REGION OBSERVATIONS (BISTRO): MAGNETIC FIELDS IN THE FILAMENTARY STRUCTURES OF SERPENS MAIN](https://arxiv.org/abs/2201.05059)
+-Question:
+	- The role of B field in Serpens Main.
+- Aims:
+	- probe the magnetic field morphology of the Serpens Main on about 6000 au scales. 
+- method:
+	- JCMT SCUBA 850 micro polarimetric observations. They used HRO technique to study the relative orientation between B field and density structure. 
+- progress:
+	- transition column densities at 0.93e22, 4.6e22, 16e22 cm-2. This result is similar to Pillai+2021. B_pos is about 60-300 mircoGauss. 
