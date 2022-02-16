@@ -40,3 +40,18 @@
 	- PN is detected toward 5 position and PO is detected toward G+0.693-0.03. The two position of non-detection was attributed to the intense UV/X-ray/cosmic ray radiation. P-bearing molecules are likely formed in shocked gas as a result of dust grain sputtering. 
 - note:
 	- Mapping such molecules is still not possible, which may require the next-generation receivers.
+
+
+## high-resolution radio continuum
+#### [Detection of a dense group of hyper-compact radio sources in the central parsec of the Galaxy](https://arxiv.org/abs/2202.05300)
+- Question:
+	- THis is a so-called "missing pulsar problem" in the Galactic center. In the past ten million years, abundant massive stars are produced in the GC. However, the detection of massive stellar remnants in the GC is still small. One reason could be the scatter-broadening at longer radio wavelength. Recent studies have shown that the scatter-broadening may not be the mayor reason, but this could be due to the slected wavelength for this study. The other possiblity is that the massive stars in the GC tend to form magnetars that have rather short lifetime. 
+	
+- Aim:
+	- search for radio continuum compact sources in the GC. This may facinate to use spectral index to find magnetar candidates which may be the solution to the missing pular problem.
+
+- Method:
+	- Using JVLA high frequency to map the central parsec around the GC to determine the radio continuum compact sources.
+
+- Progress:
+	- They detected 64 hyper-compact radio sourcs (HCRs). 38 steep with alpha<-0.5 -- nonthermal from neutron stars and stellar black holes, 10 flat-spectrum (-0.5<alpha<0.2), 17 inverted-spectrum sources with alpha>0.2. The known magnetar SGR J1745-2900 belongs to the inverted-spectrum sample, alpha_cm=-1.5+-0.6, alpha_mm=1.1+-0.2.
