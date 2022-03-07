@@ -1,0 +1,12 @@
+## Studies on various gas tracers
+
+#### [On the density regime probed by HCN emission ](https://ui.adsabs.harvard.edu/abs/2021arXiv211205543J/abstract)
+- Question:
+        - Gao+Solomon (2004) found a close linear relationship between star formation and HCN luminosity, based on the assumption that HCN (1-0) traces densities of >1e4 cm−3. However, recent studies indicate that the assumption is not valid.	
+- Aims:
+        - Investigate the density regime probed by HCN. 
+- new method:
+        - They analyzed data from post-processing of high resolution magnetohydrodynamical simulations.
+- progress:
+        - They confirmed that HCN emission traces gas with a mean volumetric density of about 3e3 cm−3 and a median visual extinction of 5 mag. This provides additional evidence that HCN can trace more diffuse gas. 
+
