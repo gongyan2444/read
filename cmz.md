@@ -55,3 +55,28 @@
 
 - Progress:
 	- They detected 64 hyper-compact radio sourcs (HCRs). 38 steep with alpha<-0.5 -- nonthermal from neutron stars and stellar black holes, 10 flat-spectrum (-0.5<alpha<0.2), 17 inverted-spectrum sources with alpha>0.2. The known magnetar SGR J1745-2900 belongs to the inverted-spectrum sample, alpha_cm=-1.5+-0.6, alpha_mm=1.1+-0.2.
+
+## diffuse molecular component 
+#### [The diffuse molecular component in the nuclear bulge of the Milky Way](https://ui.adsabs.harvard.edu/abs/2018A%26A...610A..43R/abstract)
+-Questions:
+	- Recently, a more diffuse, hotter (n 100 cm-3, T 250 K) gas component was discovered through absorption observations of H3+. This component may be widespread in the Galactic center, and low density gas detectable in absorption may be present even outside the CMZ along sightlines crossing the extended bulge of the Galaxy.
+- Aims:
+	- We aim to observe and characterize diffuse and low density gas using observations of 3-mm molecular transitions seen in absorption.
+- Method:
+	- ALMA absorption measurements toward the quasar J1744-312.
+- Result:
+	- They detected three velocity components at 0, -153, and -192 km/s. While the 0 km/s component is associated with disk, the components at -153 and -192 km/s are likely to originate from the Galactic bulge.
+- commnets:
+	- such abosrption against continuum sources should serve as a good probe to study the diffuse gas not in the halo but also across the whole galaxy.
+
+
+## Isotopic ratios
+#### [Tracing gas accretion in the Galactic cener using isotopic ratios](https://ui.adsabs.harvard.edu/abs/2010A&A...523A..51R/abstract)
+-Questions:
+	- the origin of the giant molecular loops: from supernova of disk or the disk accretion.
+- Aim:
+	- using C isotopic ratio to figure out the origin of the giant molecular loops.
+- Result:
+	- they find that ratios of >40 in the halos and X1 orbits and values of 20-25 in the disks. This is suggestive of the presence of different degree of nuclear processing toward the GC. 
+- comments:
+	- furture resolved maps of isotopic ratios should better constrain the gas accretion scenarios.
