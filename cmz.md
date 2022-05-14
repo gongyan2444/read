@@ -80,3 +80,17 @@
 	- they find that ratios of >40 in the halos and X1 orbits and values of 20-25 in the disks. This is suggestive of the presence of different degree of nuclear processing toward the GC. 
 - comments:
 	- furture resolved maps of isotopic ratios should better constrain the gas accretion scenarios.
+
+
+## Kinetic Temperature 
+#### [Kinetic temperatures toward X1/X2 orbit interceptions regions and giant molecular loops in the Galactic center region](https://ui.adsabs.harvard.edu/abs/2013A%26A...549A..36R/abstract)
+- Questions:
+	- Temperature of the giant molecular loops are not well constrained. 
+- Aim:
+	- Determine kinetic temperature and its implication of the origin. This is used to study gas cooling and heating 
+- Method:
+	- Ammonia observations.
+- Results:
+	- They discovered two kinetic temperature components (150 K and 40 K). They argue that shocks provide heating both in the GC and high latitude. They discuss quite a few different heating mechanisms in this paper. 
+
+
