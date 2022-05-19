@@ -94,3 +94,18 @@
 	- They discovered two kinetic temperature components (150 K and 40 K). They argue that shocks provide heating both in the GC and high latitude. They discuss quite a few different heating mechanisms in this paper. 
 
 
+
+## Extended velocity features - nice paper
+#### [The geometry of the gas surrounding the Central Molecular Zone: on the origin of localized molecular clouds with extreme velocity dispersions](https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.4663S/abstract)
+- Questions:
+		- There are quite a few extended velocity features in the CMZ with velocity dispersion of an order of 200 km/s. Despite many possible interpretations, the origin of these features are not well constrained. 
+- Aim:
+		- They aim to determine the orgin of the EVFs.
+- Method:
+		- Numerical simulations. 
+- Results:
+		- The EVFs arise from the cloud-cloud collisions. The l=3 and l=5 EVFs originate from the collision between material on the dust lanes and material that has overshot from the dust lane on the opposite side. 
+		- The l=1.3 EVFs originate from the collision between the accreted fresh gas and the material of the CMZ.  
+
+
+
