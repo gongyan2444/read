@@ -108,4 +108,19 @@
 		- The l=1.3 EVFs originate from the collision between the accreted fresh gas and the material of the CMZ.  
 
 
+## mass inflow rate 
+#### [Mass inflow rate into the Central Molecular Zone: observational determination and evidence of episodic accretion](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1213S/abstract)
+- Questions:
+		- The Galactic bar drives a gas flow into the CMZ, and such inflow happens mostly through two dust lanes. However, the infall rate has not been well determined observationally.
+- Aim:
+		- Determine the mass infall rate from CO observations. 
+- Method:
+		- They isolate the dust lanes based on the l-v diagrams. They use X factor to determine the mass on the dust lanes. They adopted the geometric model to do deprojection. 
+- Results:
+		- They actually determine the mass inflow rate along the dust lanes (i.e., as a function of time). They found that the accretion rates are changing with time, suggesting episodic accretion. The mass infall rate is roughly 2.7 Msun/yr. They suggest that gas replenishment should take place in the region. Based on the input kinetic energy per unit time and turbulence dissipation rate, the accretion-driven turbulence appears to be feasible in this case.
+- comments:
+		- This is a nice idea to follow, and a nice estimate of the mass infall rate. For the mass uncertainties, one might use optically thin tracers to better estimate the mass. However, the isotopic ratio and fractional abundances would be new sources of uncertainties. 
+		They can be determined with more effects. One argument on the accretion-driven turbulence, this scenario works only if the conversion efficiency is close to 100%.
+
+
 
