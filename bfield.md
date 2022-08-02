@@ -12,3 +12,8 @@ physical scales over which and timescales on which this rearrangement can occur 
 	- even a relatively weak outflow may be able to significantly reshape magnetic fields in star-forming regions on scales >0.1 pc.
 - comments:
 	- This same situation may occur in Ophiuchus North 1.
+
+
+#### [The C4H Zeeman Effect in TMC-1: Understanding Low-Mass Star Formation](https://ui.adsabs.harvard.edu/abs/2006ApJS..162..388T/abstract)
+- progress:
+	- They provide a novel tracer to study Zeeman effects of C4H, but they did not manage to detect the Zeeman effects. This is quite suitable to constrain the magnetic field of magnetized clumps undergoing ambipolar diffusion (AD). They discussed three different models from the Mouschovias, Shu, and Myers groups.
