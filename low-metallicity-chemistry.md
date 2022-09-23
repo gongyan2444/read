@@ -20,3 +20,12 @@
 	- TO investigate if chemistry is affected by low metallicity.
 - results:
 	- HDO 211-212 has been detected toward hot cores N105-2A and 2B in the N105 star-forming region. This is the first detection in an extragalactic hot core.
+
+
+#### [CHEMOUT: CHEMical complexity in star-forming regions of the OUTer Galaxy III. Nitrogen isotopic ratios in the outer Galaxy](https://arxiv.org/abs/2209.10620)
+- Questions:
+	- The carbon and nitrogen isotopic ratios in the outer Galaxy are quite uncertain.
+- results:
+	- the 14N/15N ratios from HCN and HNC for 14 and 3 sources. An overall linear decreasing H13CN/HC15N ratio with increasing R_GC. This translates to a parabolic 14N/15N ratio with a peak at 11 kpc.
+- Comments:
+	- The data are quite noisy. More constraints. 
