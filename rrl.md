@@ -10,4 +10,16 @@
 - progress:
         - They discover velocity gradients in 178 (42%) of the nebulae. About 15% of the sources also have an RRL width spatial distribution that peaks toward the center of the nebula. They explained that the velocity gradients inherited angular momentum from their parent molecular clouds.
 - comments:
-	- It is also argued that the bipolar outflow can create the velocity gradients. It would need more specific models to distinguish the outflow and rotation models. 
+	- It is also argued that the bipolar outflow can create the velocity gradients. It would need more specific models to distinguish the outflow and rotation models.
+
+
+#### [Non-detection of Broad Hydrogen Radio Recombination Lines in Circinus Galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv221106960W/abstract)
+
+- Question:
+	- The measurement of supermassive black holes in type II AGN is difficult because of the heavy extinction which makes commonly used optical Halpha lines useless.
+- Aims:
+	- Investigate if the radio RRL can be detected toward the broad emission line region caused by the black holes.
+- Progress:
+	- They detected narrow radio RRLs that should arise from star formation regions. However, they are unable to detect the broad RRLs in the nearest type II AGN galaxy. 
+- comments:
+	- One has taken good bandpass calibrator to make sure the bandpass is reliable. SKA/ngVLA and ALMA are only the players in this direction. but what if JWST with infrared RRLs? 
