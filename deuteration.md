@@ -21,4 +21,17 @@
 - results:
 	- They support the clump-fed model. The cores in prestellar stage are essentially low-mass, and they appear subvirial and gravitationally bound.
 - Comments:
-	- very fancy 3D interactive webpages. 
+	- very fancy 3D interactive webpages.
+
+
+#### [First detection of CHD2OH towards pre-stellar cores](https://arxiv.org/abs/2212.09543)
+-Question:
+	- Compared to the D/H ratio which depends on the gas-phase enhancement of the main isotopolgue and is prone to the line-of-sight integration of different gas components, the D2/D ratio provides a more
+stringent constraint on the deuteration fractionation in situ and is thus critical for advancing the chemical models. The doubly deuterated form of CH3OH has been detectd toward class 0 protostars, but has never been detected toward prestellar cores.  It is still unclear how much of the chemical complexity observed towards protostars is inherited from the prestellar phase. Deuterium fractionation of CH3OH is likely
+the best tool to provide quantitative constraints to this question.
+- Method:
+	- very sensitive IRAM 30m observations. 1-4 mK @0.18 km/s.
+- Results:
+	-They derive a D/H ratio of 0.8-1.9% with CH2DOH in pre-stellar cores H-MM1 and L694-2, which is well consistent with the values in later stages and comets. This inidcates that such deuterated fraction might be directly inherited from the prestellar cores. High CHD2OH/CH2DOH ratio of 50%--80% suggest that CHD2OH is formed via the addition of H to D2CO on dust grains.
+- Comments:
+	- The D/H ratios between starless cores and prestellar cores are different, which might be due to increasing densities. 

@@ -9,3 +9,8 @@
 	- using Herschel data.
 - progress: 
 	- The overall SFR is 2 Msun/yr similar to previous studies. SFR density peaks toward the CMZ and Rg~5kpc, and followed an exponential decrease. The fraction of SFR is 84% and 15% within and outside the Solar circle. The far outer Galaxy (Rg>13.5 kpc) is only 1%. 
+
+
+#### [Differences in chemical evolution between isolated and embedded prestellar cores](https://arxiv.org/abs/2211.12529)
+- progress:
+	- For prestellar cores, chemical also depends on the ambient environment around cores. 
