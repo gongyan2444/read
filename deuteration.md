@@ -35,3 +35,16 @@ the best tool to provide quantitative constraints to this question.
 	-They derive a D/H ratio of 0.8-1.9% with CH2DOH in pre-stellar cores H-MM1 and L694-2, which is well consistent with the values in later stages and comets. This inidcates that such deuterated fraction might be directly inherited from the prestellar cores. High CHD2OH/CH2DOH ratio of 50%--80% suggest that CHD2OH is formed via the addition of H to D2CO on dust grains.
 - Comments:
 	- The D/H ratios between starless cores and prestellar cores are different, which might be due to increasing densities. 
+
+
+#### [Millimetre and sub-millimetre spectroscopy of doubly deuterated acetaldehyde (CHD2CHO) and first detection towards IRAS 16293-2422](https://arxiv.org/abs/2301.06315)
+- Question:
+  - The increasing number of singly and multi-deuterated species detections helps us to constrain the interplay between gas-phase and solid-state chemistry
+and to understand better deuterium fractionation in the early stages of star formation. Acetaldehyde is one of the most abundant complex organic molecules (COMs) in star-forming regions and its singly deuterated isotopologues have already been observed towards protostars.
+- Aim:
+  - spectroscopic information of CHD2CHO, and search for this molecule.
+- Results:
+  - They build a spectroscopic catalogue of CHD2CHO with 853 transitions. They detected this molecule in IRAS 16293-2422 with the ALMA PILS survey. They found the D2/D ratio is similar to other COMs, pointing to a common formation environment.
+
+
+  

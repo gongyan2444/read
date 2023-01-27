@@ -27,3 +27,14 @@
   - They show that the HCN intensity remains linear with H2 column density well into the regime where the CO line saturates. They found a direct measurement of the ratio of dense gas mass to HCN luminosity for an entire nearby molecular cloud: α(HCN) = 92 M /(K km s−1 pc2).
 - comments:
   - The conversion factor can be directly applied to galaxies. what about other tracers? Some studies have debated that HCN (1-0) do not really trace dense gas, which even triggers the discussion between the electrons and HCN by Goldsmith and Kauffmann.
+
+
+#### [GMC Collisions As Triggers of Star Formation. VIII. The Core Mass Function](https://arxiv.org/abs/2301.10657)
+- Question:
+  - Since core mass function might be directly linked to the initial mass function. It would be good to see how cloud-cloud collisions affect the core mass function.
+- Aim:
+  - Investigate the impact of cloud-cloud collisions on the core mass function.
+- Method:
+  - Simualations:
+- Progress:
+  - Cloud-cloud collisions can produce a top-heavy core mass function, while non-collision clouds produce Salpeter-like slope. In the collision sample, cores tend to be warmer, more turbulent, and easily gravitational unbound. However, the protocluster of cores tend to be subvirial. 
