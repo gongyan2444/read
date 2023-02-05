@@ -38,4 +38,18 @@ physical scales over which and timescales on which this rearrangement can occur 
 - progress:
   -  The relative orientation between B and column density changes from statistically more perpendicular to parallel as column density increases, which is a signature of trans-to-sub-Alfvenic turbulence at complex/cloud scales. The more parallel alignment between B and column density at higher NH2 is because the magnetic field line is dragged by gravity. At even higher NH2, the angle between B and column density gradient, velocity gradient transits back to having no preferred orientation or statistically slightly more perpendicular, suggesting that the magnetic field structure is impacted by star formation activities.  statistically more perpendicular alignment found between θB and θVG throughout our studied NH2 range, which indicates a trans-to-sub-Alfvenic state at small scales as well. The KTH method may fail at high NH2 due to the impact of star formation feedback.
 - comments:
-  - Their statistical methods are quite interesting and easy to follow. 
+  - Their statistical methods are quite interesting and easy to follow.
+
+
+#### [The Kinematics of the Magnetised Protostellar core IRAS15398-3359](https://arxiv.org/abs/2302.00987)
+- Question:
+  - Magnetic fields are considered an important factor during the early stages of star formation, especially during the main accretion phase.However, it is not clear how the B field regulates star formation in core scale 
+- Aims:
+  - We aim to study the relation between kinematics and magnetic fields at a very early stage of the star formation process.
+- Method:
+  - APEX molecular line observations + dust polarization measurements.
+- progress:
+  - The velocity gradient along the central object can be explained as an ongoing outflow motion. The large-scale magnetic field line
+observed previously is preferentially aligned to the rotation axis of the core.
+
+
