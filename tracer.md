@@ -34,3 +34,28 @@
   - They resolve double-peak spectral line profiles with the redshifted peak a factor 3-5 brighter. The bulk of the cyanopolyyne emission is likely associated with the southern region of the core, where free carbon atoms are available to form long chains.
 - Comments:
   - They said HC5N:HC7N:HC9N=1:6:4, which is misleading. Actually, HC5N:HC7N=6, HC7N/HC9N=4. The result is quite interesting. They attribute the abundant carbon chain molecules to the free carbon carbon caused by either young ages or UV illumination. This would explain the so-called WCCC as well.
+
+
+#### [183 GHz water megamasers in active galactic nuclei: a new accretion disk tracer](https://arxiv.org/abs/2302.02572)
+- Question:
+  - water megamasers are useful tools to study AGN disks. Only three AGNs (NGC 3079, Circinus, NGC 4945) are known to host H2O megamasers other than 22 GHz. 
+- Method:
+  -  an ALMA survey to identify 183 GHz H2O maser emission from AGN
+already known to host 22 GHz megamaser systems.
+- progress:
+  - They detected significant 183 GHz maser emission from 13 galaxies. They tracing the circumnuclear accretion disk at larger orbital radii than are occupied by the 22 GHz masers.
+- Comments:
+  - luminosity depends on frequency. higher frequency leads to higher luminosity. For a certain luminosity, the flux density would be lower at higher frequency. This presents a motivation to detect submm masers.  They trace different locations.
+
+
+#### [ALMA Detection of 321 GHz water maser emission in the radio galaxy NGC 1052](https://arxiv.org/abs/2302.04211)
+- Question:
+  - The plasma torus obscures the core by free–free absorption (FFA) casting a gap between two maser clusters (Sawada-Satoh+2008). Submillimeter (sub-mm) observations are crucial to probe inside the obscuring torus.
+- Aim:
+  - detect submm masers to investigate the environments inside the obscuring torus.
+- Method:
+  - ALMA (321) GBT (22)
+- progress:
+  - They detected a broad and a narrow component in the 321 GHz maser toward NGC 1052. 
+- comments:
+  - It is not clearly why the 321GHz water masers are shifted with respect to the 22 GHz water masers. This at least suggests that the 321 GHz masers are tracing different parts of the galaxy.

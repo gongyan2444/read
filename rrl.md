@@ -22,4 +22,17 @@
 - Progress:
 	- They detected narrow radio RRLs that should arise from star formation regions. However, they are unable to detect the broad RRLs in the nearest type II AGN galaxy. 
 - comments:
-	- One has taken good bandpass calibrator to make sure the bandpass is reliable. SKA/ngVLA and ALMA are only the players in this direction. but what if JWST with infrared RRLs? 
+	- One has taken good bandpass calibrator to make sure the bandpass is reliable. SKA/ngVLA and ALMA are only the players in this direction. but what if JWST with infrared RRLs?
+
+
+#### [First Detection of Radio Recombination Lines of Ions Heavier than Helium](https://arxiv.org/abs/2302.03398)
+- Question:
+  - TMRT Q band line survey leads to the detection of U lines which are not assigned before. 
+- Aims:
+  - figure out what the U lines are. 
+- Method:
+  - They match the U lines with the RRL of C and O which recombinate from CIII and OIII.
+- Progress:
+  - They suggests that the U lines could be due to C and O with higher order of ionizations. 
+- Comments:
+  - This is a good approach. Quite a few U lines could be due to RRLs in high-mass star formation regions. If confirmed, this would indicate that such RRLs can be used to study the C/O abundances. 
