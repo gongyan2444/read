@@ -37,4 +37,21 @@
 - Method:
   - Simualations:
 - Progress:
-  - Cloud-cloud collisions can produce a top-heavy core mass function, while non-collision clouds produce Salpeter-like slope. In the collision sample, cores tend to be warmer, more turbulent, and easily gravitational unbound. However, the protocluster of cores tend to be subvirial. 
+  - Cloud-cloud collisions can produce a top-heavy core mass function, while non-collision clouds produce Salpeter-like slope. In the collision sample, cores tend to be warmer, more turbulent, and easily gravitational unbound. However, the protocluster of cores tend to be subvirial.
+
+#### [The parallax and 3D kinematics of water masers in the massive star-forming region G034.43+0.24](https://arxiv.org/abs/2303.09129)
+- Progress:
+  - G034.43+0.24 is actually located at ~3kpc rather than 1.5pc proposed earlier.
+
+
+#### [Can we observe the ion-neutral drift velocity in prestellar cores?](https://arxiv.org/abs/2303.09583)
+- Question:
+  - Ambipolar diffusion is thought to play an important role in star formation in terms of accumulating mass toward dense cores. However, such phenonoment is not easily verified in observations.
+- Aim:
+  - The ion-neutral drift velocity is taken to be the smoking gun of the ambipolar diffusion. One has to justify the feasility of the tracers. One needs assess which factor (chemistry, radiative transfer and/or observational difficulties) is the most challenging to overcome in our efforts to detect the ion-neutral drift velocity.
+- Method:
+  - MHD+radiative transfer codes.
+- Progress:
+  - Temperature has a significant effect in the amplitude of the drift velocity with the coldest modelled cores (T = 6 K) exhibiting drift velocities comparable to the sound speed. They suggest that HCN and HCNH+ are chemically co-evolving and could be good tracers to measure the ion-neutral drift velocity.
+- Comments:
+  - HCNH+ is easily accessible now. Such observations should be straightforward. 
