@@ -59,3 +59,17 @@ already known to host 22 GHz megamaser systems.
   - They detected a broad and a narrow component in the 321 GHz maser toward NGC 1052. 
 - comments:
   - It is not clearly why the 321GHz water masers are shifted with respect to the 22 GHz water masers. This at least suggests that the 321 GHz masers are tracing different parts of the galaxy.
+
+
+
+#### [Reconstructing the shock history in the CMZ of NGC 253 with ALCHEMI](https://arxiv.org/abs/2303.12685)
+- Question:
+  - The simultaneous detection of SiO and HNCO in regions where the star formation rate is high may be used to study the shock history of the gas.
+- Aims:
+  - They aim to constrain the shock history of NGC253 with ALCHEMI and to characterize the gas properties, and to investigate the chemical origin of the emission.
+- method:
+  - ALCHEMI line survey.
+- progress:
+  - They confirm that fast and slow shocks are responsible for SiO and HNCO production, respectively. They suggest that most of the GMCs are subjected to shocks.
+- Note:
+  - In their discusssion, They mentioned a few interesting shock scenario and ponteital history for NGC253.

@@ -54,4 +54,15 @@
 - Progress:
   - Temperature has a significant effect in the amplitude of the drift velocity with the coldest modelled cores (T = 6 K) exhibiting drift velocities comparable to the sound speed. They suggest that HCN and HCNH+ are chemically co-evolving and could be good tracers to measure the ion-neutral drift velocity.
 - Comments:
-  - HCNH+ is easily accessible now. Such observations should be straightforward. 
+  - HCNH+ is easily accessible now. Such observations should be straightforward.
+
+
+#### [Turbulence in Zeeman Measurements from Molecular Clouds](https://arxiv.org/abs/2303.11614)
+- Question:
+  - The temporal B-n relation can be a measure of the importance of gravity and B field. The text model suggest that an index of 0 or 2/3 suggest dominant B field or self-gravity. A value higher than 2/3 can result from turbulence, stellar wind, or supernova compression. However, the temporal B-n is unobservable. What can be measured is the spatial B-n relation from Zeeman measurements. However, it is not clear if the spatial B-n can represent the temporal B-n relation.
+- method:
+  - They studied the temporal B-n in the simulations.
+- progress:
+  - They found that the temporal B-n with an index of 2/3 in simulations can be due to the turbulence compression insteal of gravitaional contraction.
+- Note:
+  - This is quite importat. One should caution to interpret the observations of B-n relation. One has to map the density and B simutaneously with the Zeeman splitting. This would give use the temporal B-n relation of the target. 
