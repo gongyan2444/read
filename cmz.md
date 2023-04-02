@@ -123,4 +123,15 @@
 		They can be determined with more effects. One argument on the accretion-driven turbulence, this scenario works only if the conversion efficiency is close to 100%.
 
 
+#### [Widespread Hot Ammonia in the Central Kiloparsec of the Milky Way](https://arxiv.org/abs/2303.11222)
+- Questions:
+  - The molecular gas in this region is more than an order of magnitude hotter than gas in the Galactic disk, but the mechanism responsible for heating the gas remains uncertain. 
+- Aims:
+  - They aim to characterize the temperature for 16 regions, extending out to a projected radius of ∼450 pc.
+- Method:
+  - ATCA NH3(1,1)-(6,6) + GBT (8,8)-(14,14)
+- Results:
+  - For the cool component they detect rotational temperatures ranging from 20-80 K, and for the hot component we detect temperature ranging from 210-580 K. (not Tkin, but a lower limit. Hence, the most extreme temperature). They found no correlation between line width and temperature. Non-thermal motions are dominant. Cosmic rays and turbulence should play an important role in the gas heating.
+- Note:
+  - Bania's Clump 2 show hottest temperature. 
 

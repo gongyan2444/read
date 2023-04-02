@@ -1,5 +1,5 @@
 # Literature reading 
-## by Yan Gong and Wenjin Yang
+## by Yan Gong
 ![alt text](./reading.jpg)   
 
 This is designed for myself. This is mostly based on Prof. Zhiyu Zhang's course ([Astronomical Literature  Reading and Writing](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113716.html)). My notes will mainly focus on the fast reading. The markdown follows the style of [Dr. Guangtou](https://github.com/dr-guangtou/daily_astroph).

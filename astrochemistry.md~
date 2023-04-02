@@ -1,4 +1,4 @@
-## low-metallicity-chemistry
+## astrochemistry
 
 #### [CHEMOUT: CHEMical complexity in star-forming regions of the OUTer Galaxy. I. Organic molecules and tracers of star-formation activity](https://arxiv.org/abs/2203.00719)
 - Question:
@@ -28,4 +28,15 @@
 - results:
 	- the 14N/15N ratios from HCN and HNC for 14 and 3 sources. An overall linear decreasing H13CN/HC15N ratio with increasing R_GC. This translates to a parabolic 14N/15N ratio with a peak at 11 kpc.
 - Comments:
-	- The data are quite noisy. More constraints. 
+	- The data are quite noisy. More constraints.
+
+
+#### [Efficient Methanol Production on the Dark Side of a Prestellar Core](https://iopscience.iop.org/article/10.3847/1538-4357/ab8f93/pdf)
+- Questions:
+  - CH3OH is believed to form via hydrogenation of frozen carbon monoxide on dust grains. It is released back to gas phase via heating or nonthermal desorption.There are possible for the nonthermal desorption, i.e., photodesorption and photodissociation by external radiation fields, cosmic-rays, reactive desorption, grain-grain collision iduced by gas velcoity fluctuations.
+- method:
+  - They used ALMA to study starless core Ophiuchus H-MM1 with o-NH2D, CH3OH, and SO.
+- results:
+  - they found CH3OH/SO form a hole surrounding the core. This is caused by desorption from grains. These two molecules are only abundant in a narrow zone in the eastern side of the core, which could be caused by the external radiation field from the west. However, the stark contrast observed in H-MM1 cannot be explained without assuming enhanced desorption on the shaded side. The brightest emsion has a wavy strcture which is a signature of KHI. They thus conclude that CH3OH/SO are released as a result of grain-grain collisions induced by shear veorticity.
+- Note:
+  - It is very interesting mechanism in additional to the photodesorption. This indicates that turbulence (turbulent dissipation regions Godard.B+2009) can make an important contribution of chemistry as well. 

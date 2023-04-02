@@ -53,3 +53,14 @@ physical scales over which and timescales on which this rearrangement can occur 
 observed previously is preferentially aligned to the rotation axis of the core.
 
 
+#### [The JCMT BISTRO-2 Survey: Magnetic Fields of the Massive DR21 Filament](https://iopscience.iop.org/article/10.3847/1538-4357/ac9dfb/pdf)
+- Question:
+  -
+- Aims:
+  - The role of magnetic fields in the formation of filaments and high-mass star-forming cores.
+- Method:
+  - JCMT POL-2 observations, structure function/angular dispersion function.
+- progress:
+  - Ordered magnetic fields perpendicular to the parsec-scale ridge of the DR21
+main filament. The plane-of-sky magnetic field strengths derived from angular
+dispersion functions of dust polarization are 0.6–1.0 mG in the DR21 filament and ∼0.1 mG in the surrounding ambient gas. The mass-to-flux ratios are found to be magnetically supercritical in the filament and slightly subcritical to nearly critical in the ambient gas. The magnetic field structures of the DR21 filament are in agreement with MHD simulations of a strongly magnetized medium, suggesting that magnetic fields play an important role in shaping the DR21 main filament and subfilaments.

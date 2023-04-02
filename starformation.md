@@ -66,3 +66,17 @@
   - They found that the temporal B-n with an index of 2/3 in simulations can be due to the turbulence compression insteal of gravitaional contraction.
 - Note:
   - This is quite importat. One should caution to interpret the observations of B-n relation. One has to map the density and B simutaneously with the Zeeman splitting. This would give use the temporal B-n relation of the target. 
+
+
+
+#### [JOYS: JWST Observations of Young protoStars: Outflows and accretion in the high-mass star-forming region IRAS23385+605](https://arxiv.org/abs/2303.13172)
+- Question:
+  - Mid-infrared continuum and line imaging of the warmer material at sub-arcsecond spatial resolution has been barely feasible so far. 
+- Aim:
+  - The JWST program JOYS (JWST Observations of Young protoStars) aims at characterizing the physical and chemical properties of young high- and low-mass star-forming regions, in particular the unique mid-infrared diagnostics of the warmer gas and solid-state components. 
+- Method:
+  - The JOYS program uses the MIRI MRS with its IFU to investigate a sample of high- and low-mass star-forming protostellar systems.
+- Progress:
+  - The short-wavelength MIRI data resolve two continuum sources A and B, where mid-infrared source A is associated with the main mm continuum peak. It contains many feautres like [FeII], H2, [NiII], [ArII], CH4, PAH, HI(7-6), [NeII], CO2 ice &gas, [SI].
+- Note:
+  - JWST opens new windows for astronomers. In addition to continuum, the atomic and ionized gas line can be stuided in details on scale of >0.2", which is comparable to radio/sub/mm interferometers.
