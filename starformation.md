@@ -80,3 +80,15 @@
   - The short-wavelength MIRI data resolve two continuum sources A and B, where mid-infrared source A is associated with the main mm continuum peak. It contains many feautres like [FeII], H2, [NiII], [ArII], CH4, PAH, HI(7-6), [NeII], CO2 ice &gas, [SI].
 - Note:
   - JWST opens new windows for astronomers. In addition to continuum, the atomic and ionized gas line can be stuided in details on scale of >0.2", which is comparable to radio/sub/mm interferometers.
+
+#### [High-resolution study of outflow activity and chemical environment of Chamaeleon-MMS1](https://arxiv.org/pdf/2010.01151.pdf)
+- Question:
+  - Hydrodynamic simulations have show that the collapse of a molecular cloud is arrested by thermal pressure once the densicy becomes sufficiently great that cooling by dust radiation is inhibited. This is known as the first hydrostatic core (FHSC). But the FHSC and Vello are difficult to distinguish in observations. FHSC outflow. 
+- Aim:
+  - study the outflow of Chamaeleon-MMS1 and its impact on the surrounding to determine the evolutionary state. 
+- method:
+  - ALMA observations 220 GHz, 75 AU resolution. 
+- progress:
+  - A low energy outflow. H2CO Trot=40K. While molecular emission and high outflow speeds rule it out as a FHSC,the outflow is less energetic than outflows detected from other Class 0 objects. The inferred gas temperatures toward the continuum source are also relatively low, indicating that Cha-MMS1 is one of the youngest known sources.
+- Note:
+  - Cham-MMS1 is not a FHSC. 

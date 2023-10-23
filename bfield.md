@@ -55,7 +55,7 @@ observed previously is preferentially aligned to the rotation axis of the core.
 
 #### [The JCMT BISTRO-2 Survey: Magnetic Fields of the Massive DR21 Filament](https://iopscience.iop.org/article/10.3847/1538-4357/ac9dfb/pdf)
 - Question:
-  -
+  - The role of B fields in massive star formation is still unexplored. 
 - Aims:
   - The role of magnetic fields in the formation of filaments and high-mass star-forming cores.
 - Method:
@@ -64,3 +64,18 @@ observed previously is preferentially aligned to the rotation axis of the core.
   - Ordered magnetic fields perpendicular to the parsec-scale ridge of the DR21
 main filament. The plane-of-sky magnetic field strengths derived from angular
 dispersion functions of dust polarization are 0.6–1.0 mG in the DR21 filament and ∼0.1 mG in the surrounding ambient gas. The mass-to-flux ratios are found to be magnetically supercritical in the filament and slightly subcritical to nearly critical in the ambient gas. The magnetic field structures of the DR21 filament are in agreement with MHD simulations of a strongly magnetized medium, suggesting that magnetic fields play an important role in shaping the DR21 main filament and subfilaments.
+
+
+#### [The JCMT BISTRO Survey: Studying the Complex Magnetic Field of L43](https://arxiv.org/abs/2305.11306)
+- Question:
+  - It is important to understand the strength and structure of the magnetic fields in these early stages of star formation since their
+role may differ from roles played once stars have already formed, for example due to interaction with stellar feedback. Protostellar outflows have
+been known to either affect, or be affected by, magnetic fields as seen by many instances of the magnetic fields tracing outflows.
+- Aims:
+  - We also investigate the interaction of the magnetic field with the CO outflow of RNO 91, an embedded Class I protostar. 
+- Method:
+  - JCMT POL-2 observations. BISTRO. DCF, ACF. 
+- progress:
+  - A magnetic field that appears to be aligned with the cavity walls of the outflow, suggesting interaction with the outflow. 160+-30 micro Gauss in the main starless core and up to 90+-40 micro Gauss in the more diffuse, extended region. magnetically super- and sub-critical values respectively and both are found to be roughly trans-Alfvenic.
+  
+  

@@ -63,3 +63,39 @@
 	- column densities of (1.1 +/- 0.3)e12 cm-2 for C2H5OH, (1.4 +/- 0.6)e11 cm-2 for CH3COCH3, and (1.9 +/- 0.7)e11 cm-2 for C2H5CHO. They propose that Ethanol is formed on grains by addition of atomic carbon on methanol followed by hydrogenation and non-thermal desorption. Acetone and propanal are produced by the gas-phase reaction between atomic oxygen and two different isomers of the C3H7 radical, where the latter follows from the hydrogenation of C3 on grains followed by non-thermal desorption.
 
 
+
+#### [The spatial distribution of an aromatic molecule, C6H5CN, in the cold dark cloud TMC-1](https://arxiv.org/abs/2305.15315)
+- Questions:
+  - The modelling of molecular emission is often tackled with very limited information on the spatial extent of the observed lines. 
+sion.
+- Aims:
+  - Distribution of benzonitrile.
+- Method:
+  - Yebes. Surveying the Area of the Neighbour TMC-1 Cloud through Heterodyne Observations (SANCHO). A new project.
+- progress:
+  - Benzonitrile follows that of cyanopolyynes rather well, but differs significantly from that of the radicals CnH and CnN. This supports a bottom-up chemistry that aromatic species in TMC-1 are formed from chemical reactions involving smaller species in the densest zones of the cloud.
+
+
+#### [A 3D physico-chemical model of a pre-stellar core. I. Environmental and structural impact on the distribution of CH$_3$OH and $c$-C$_3$H$_2$](https://arxiv.org/abs/2305.05932)
+-Questions:
+	- Previous observations unveil the chemicial fractionation in prestellar and starless cores. This could be caused by the effects of the core structure and external environment on the chemical structure of pre-stellar cores.
+- Method:
+	- They use the 3D MHD model of a pre-stellar core embedded in a dynamic star-forming cloud to reproduce the observed properties in L1544.
+- progress:
+	- Extended methanol emission is shifted towards colder and more shielded regions of the core envelope while c–C3H2 emission overlaps with the dust continuum. That is not due to the increased ISRF or CRIR. This study confirms Spezzano's early result that the observed chemical dichotomy in L1544 can arise as a result of uneven illumination due to the asymmetrical structure of the 3D core and the environment within which the core has formed.
+- Comments:
+	- The two tracers are carefully selected. CH3OH in prestellar cores mainy depend on the CO ice (then non-thermal desorption), while c-C3H2 is mainly formed in gas-phase.
+
+
+#### [Formation of complex organic molecules on interstellar CO ices? Insights from computational chemistry simulations](https://arxiv.org/abs/2305.16116)
+- Question:
+  - Carbon ($^3$P) atom is a reactive species that, according to laboratory experiments and theoretical calculations, condensates with interstellar ice components. This fact is of uttermost importance for the chemistry in the interstellar medium (ISM) because the condensation reaction is barrierless and the subsequent species formed are still reactive given their open-shell character. Carbon condensation on CO-rich ices forms the CCCO species, which can be easily hydrogenated twice to form ketene (H2CCO). Ketene is very reactive in terrestrial conditions, usually found as an intermediate hard to be isolated in chemical synthesis laboratories. These characteristics suggest that ketene can be a good candidate to form interstellar complex organic molecules (iCOMs) via a two-step process, i.e., its activation followed by a radical-radical coupling.
+- Aims:
+  - They want to study the reactions between H2CCO and H/OH/NH2 to see which reaction is preferred. 
+- Method:
+  - quantum chemical calculations complemented by kinetic calculations	
+- Progress:
+  -  H addition to ketene (helped by tunneling) to form the acetyl radical (CH3CO) is the most preferred path, as the reactions with OH and NH2 possess activation energie hard to surmount in the ISM conditions. CH3CHO and CH3CH2OH can be form via further hydrogenation.  
+- Comments:
+  - One might be able to detect H2CCO and CH3CH2OH toward prestellar and starless cores. 
+
