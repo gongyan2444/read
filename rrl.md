@@ -35,4 +35,13 @@
 - Progress:
   - They suggests that the U lines could be due to C and O with higher order of ionizations. 
 - Comments:
-  - This is a good approach. Quite a few U lines could be due to RRLs in high-mass star formation regions. If confirmed, this would indicate that such RRLs can be used to study the C/O abundances. 
+  - This is a good approach. Quite a few U lines could be due to RRLs in high-mass star formation regions. If confirmed, this would indicate that such RRLs can be used to study the C/O abundances.
+
+#### [Methods for Averaging Spectral Line Data](https://arxiv.org/abs/2310.09076)
+- Question:
+  - The ideal spectral averaging method depends on one's science goals and the available information about one's data. Including low-quality data in the average can decrease the signal-to-noise ratio (SNR), which may necessitate an optimization method or a consideration of different weighting schemes
+- Aims:
+  - figure out which averaging method is best for improving the SNR.
+- progress:
+  - weighting by the signal divided by the variance ("intensity-noise weighting"), weighting by the inverse of the variance ("noise weighting"), and uniform weighting. It appears that intensity-noise weighting method gives the best results.  That is try to use SNR as the weight for the averaging.
+

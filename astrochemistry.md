@@ -99,3 +99,15 @@ sion.
 - Comments:
   - One might be able to detect H2CCO and CH3CH2OH toward prestellar and starless cores. 
 
+#### [Combined model for 15N, 13C, and spin-state chemistry in molecular clouds](https://arxiv.org/abs/2309.02066#)
+- Question:
+  -  The combined isotopic fractionation of carbon and nitrogen in molecular clouds might account for their ratios different from the element ratios. The isotope chemistry of carbon and nitrogen coupled with a time-dependent description of spin-state chemistry might the observations.
+- Aims:
+  - Using the updated chemical network to explain the observations
+- Method:
+  - modeling v.s. observations
+- progress:
+  - The HCN/H13CN ratio can obtain values of less than 10 depending on the simulation time. The 14N/15N ratios tend to remain close to the assumed elemental ratio within ∼ ten per cent, with no clear trends as a function of the physical conditions. Our results imply the existence of gradients in isotopic abundance ratios across prestellar cores, suggesting that detailed simulations are required to interpret observations of isotopically substituted molecules correctly.
+- Comments:
+  - For starless or prestellar cores, one might anticipate that the isotope ratios inferred from specific molecular pairs can have gradients. The selection of molecular tracers can crucial to determine the intrinsic element ratio. 
+  

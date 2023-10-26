@@ -73,3 +73,8 @@ already known to host 22 GHz megamaser systems.
   - They confirm that fast and slow shocks are responsible for SiO and HNCO production, respectively. They suggest that most of the GMCs are subjected to shocks.
 - Note:
   - In their discusssion, They mentioned a few interesting shock scenario and ponteital history for NGC253.
+
+
+#### [Collisional excitation of PO+ by para-H2](https://arxiv.org/abs/2310.08052)
+- progress:
+  - They deliever rate coefficients for the rotational (de-)excitation of PO+ induced by collisions with H2. This will facinate the non-LTE calculations using PO+. They predict that PO+ can be masering at a density of 1e4 to 1e6 cm-3. However, PO+ is seldom detected in the ISM so far.
